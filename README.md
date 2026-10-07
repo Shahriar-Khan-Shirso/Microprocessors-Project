@@ -350,9 +350,6 @@ Worth knowing before a demo or viva:
 
 \---
 
-## File
 
-```
-GroupNo11\_Section07\_22201441.asm   # entire project (\~1240 lines)
 ```
 
